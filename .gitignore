@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#firebase
+pokeapp-607dd-firebase-adminsdk-1mrnm-2d6e2708c0.json
